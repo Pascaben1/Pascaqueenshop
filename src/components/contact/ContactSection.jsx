@@ -37,8 +37,8 @@ export default function ContactSection() {
     {
       icon: Mail,
       title: 'Email',
-      value: 'support@pascaqueen.shop',
-      href: 'mailto:support@pascaqueen.shop'
+      value: 'pascaquenfoods@gmail.com',
+      href: 'mailto:pascaqueenfoods@gmail.com'
     },
     {
       icon: Clock,
